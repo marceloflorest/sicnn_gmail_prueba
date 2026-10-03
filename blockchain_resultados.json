@@ -1,0 +1,4165 @@
+[
+  {
+    "indice": 0,
+    "timestamp": 1788996846.248005,
+    "datos": {
+      "info": "Bloque génesis"
+    },
+    "hash_anterior": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash_propio": "5b138c58941d0d49a7d41441d6b7fd42949761f67282b851962e4c082dd86232"
+  },
+  {
+    "indice": 1,
+    "timestamp": 1788996846.2556975,
+    "datos": {
+      "algoritmo": "SICNN",
+      "total_analizado": 5300,
+      "legitimos": 5200,
+      "phishing": 100,
+      "remitentes_phishing": [
+        "actualizacion19@cuenta-segura.info",
+        "actualizacion61@bancoseguro-alerta.net",
+        "actualizacion68@securemail-verify.com",
+        "actualizacion9@bancofalso-ng.net",
+        "actualizacion@bancoseguro-alerta.net",
+        "actualizacion@securemail-verify.com",
+        "actualizacion@verificacion-bancaria.xyz",
+        "alertas30@bancoseguro-alerta.net",
+        "alertas95@cuenta-segura.info",
+        "alertas@banco-alerta.net",
+        "alertas@bancoseguro-alerta.net",
+        "ayuda60@banco-seguro.com",
+        "ayuda89@bancofalso-ng.net",
+        "ayuda@banco-seguro.com",
+        "ayuda@cuenta-segura.info",
+        "ayuda@premio-oficial.com",
+        "ayuda@soporte-cuenta.online",
+        "cuentas23@banco-seguro.com",
+        "cuentas27@premio-oficial.com",
+        "cuentas54@loteria-ganadores.com",
+        "cuentas66@soporte-cuenta.online",
+        "cuentas93@banco-seguro.com",
+        "cuentas@banco-alerta.net",
+        "cuentas@bancoseguro-alerta.net",
+        "cuentas@soporte-cuenta.online",
+        "it-support20@cuenta-segura.info",
+        "it-support@cuenta-segura.info",
+        "it-support@loteria-ganadores.com",
+        "it-support@soporte-cuenta.online",
+        "it-support@verificacion-bancaria.xyz",
+        "loteria@banco-alerta.net",
+        "loteria@banco-seguro.com",
+        "loteria@bancofalso-ng.net",
+        "noreply72@securemail-verify.com",
+        "noreply77@soporte-cuenta.online",
+        "noreply@banco-seguro.com",
+        "noreply@bancoseguro-alerta.net",
+        "noreply@cuenta-segura.info",
+        "noreply@premio-oficial.com",
+        "premios48@loteria-ganadores.com",
+        "premios@cuenta-segura.info",
+        "premios@loteria-ganadores.com",
+        "premios@securemail-verify.com",
+        "premios@soporte-cuenta.online",
+        "premios@verificacion-bancaria.xyz",
+        "promo12@banco-alerta.net",
+        "promo4@verificacion-bancaria.xyz",
+        "promo@banco-seguro.com",
+        "promo@premio-oficial.com",
+        "seguridad13@banco-seguro.com",
+        "seguridad19@bancofalso-ng.net",
+        "seguridad30@loteria-ganadores.com",
+        "seguridad54@bancoseguro-alerta.net",
+        "seguridad54@cuenta-segura.info",
+        "sistemas15@loteria-ganadores.com",
+        "sistemas34@premio-oficial.com",
+        "sistemas@bancofalso-ng.net",
+        "soporte-ti12@securemail-verify.com",
+        "soporte-ti16@verificacion-bancaria.xyz",
+        "soporte-ti1@banco-alerta.net",
+        "soporte-ti65@loteria-ganadores.com",
+        "soporte-ti66@loteria-ganadores.com",
+        "soporte-ti67@securemail-verify.com",
+        "soporte-ti@banco-seguro.com",
+        "soporte-ti@loteria-ganadores.com",
+        "soporte67@bancoseguro-alerta.net",
+        "soporte82@premio-oficial.com",
+        "soporte91@bancofalso-ng.net",
+        "soporte@bancoseguro-alerta.net",
+        "soporte@soporte-cuenta.online",
+        "sorteo13@soporte-cuenta.online",
+        "sorteo44@cuenta-segura.info",
+        "sorteo51@securemail-verify.com",
+        "sorteo55@soporte-cuenta.online",
+        "sorteo@banco-seguro.com",
+        "sorteo@bancofalso-ng.net",
+        "sorteo@securemail-verify.com",
+        "verificacion-bvn28@bancoseguro-alerta.net",
+        "verificacion-bvn30@soporte-cuenta.online",
+        "verificacion-bvn63@banco-alerta.net",
+        "verificacion-bvn@banco-alerta.net",
+        "verificacion18@loteria-ganadores.com",
+        "verificacion26@soporte-cuenta.online",
+        "verificacion44@securemail-verify.com",
+        "verificacion51@bancofalso-ng.net",
+        "verificacion78@bancofalso-ng.net",
+        "verificacion97@loteria-ganadores.com",
+        "verificacion@bancofalso-ng.net",
+        "verificacion@bancoseguro-alerta.net",
+        "verificacion@loteria-ganadores.com",
+        "verificacion@securemail-verify.com",
+        "verificacion@soporte-cuenta.online"
+      ]
+    },
+    "hash_anterior": "5b138c58941d0d49a7d41441d6b7fd42949761f67282b851962e4c082dd86232",
+    "hash_propio": "6371bf481afe104bd309f5e73f2a77f87c420b520b12294065b5d294a8408475"
+  },
+  {
+    "indice": 2,
+    "timestamp": 1788998290.110277,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a087e4f4e75d608",
+      "fecha_hora": "09/09/2026 15:38",
+      "remitente": "Instagram <follow-suggestions@mail.instagram.com>",
+      "asunto": "Explora a chayita21, maurizzzio_28 y otras personas en tu feed",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 16.12,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6371bf481afe104bd309f5e73f2a77f87c420b520b12294065b5d294a8408475",
+    "hash_propio": "74a2763fe276c764a8f8fd0698f4c8ddc9130e12e57f7da1b3f34d3561838bce"
+  },
+  {
+    "indice": 3,
+    "timestamp": 1788998290.110984,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a087b85eaf4c5e1",
+      "fecha_hora": "09/09/2026 14:50",
+      "remitente": "LinkedIn <messages-noreply@linkedin.com>",
+      "asunto": "Fabien Nello通关了领英每日谜题游戏。您呢？🏆",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.39,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "74a2763fe276c764a8f8fd0698f4c8ddc9130e12e57f7da1b3f34d3561838bce",
+    "hash_propio": "a3d3949cac2ce72ed2e2a5157286cb60ac1e4327d4cb23444f38c5d021d05863"
+  },
+  {
+    "indice": 4,
+    "timestamp": 1788998290.1110585,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0876100d3ca13e",
+      "fecha_hora": "09/09/2026 13:14",
+      "remitente": "BCP Comunica <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "🚀 A un paso de tu nueva 💳. Descubre si tienes una preaprobada👇 ",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 54.31,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "a3d3949cac2ce72ed2e2a5157286cb60ac1e4327d4cb23444f38c5d021d05863",
+    "hash_propio": "6410733f18afbbdbecdff58dc72dfa8fcd713c4b1c69c9e2a843ed0623e54cbd"
+  },
+  {
+    "indice": 5,
+    "timestamp": 1788998290.1111019,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a086cda2b8e600e",
+      "fecha_hora": "09/09/2026 10:33",
+      "remitente": "\"GenAI Works通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "💸 ChatGPT solved a $1 million math problem",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.82,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6410733f18afbbdbecdff58dc72dfa8fcd713c4b1c69c9e2a843ed0623e54cbd",
+    "hash_propio": "0620fffa85c4610558a1de22edfd63c58ea9651e542a09073d9264a8dc6d24c0"
+  },
+  {
+    "indice": 6,
+    "timestamp": 1788998290.1111376,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08675ae0ad4db2",
+      "fecha_hora": "09/09/2026 08:57",
+      "remitente": "\"TP通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Building the operational foundations for AI",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.87,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0620fffa85c4610558a1de22edfd63c58ea9651e542a09073d9264a8dc6d24c0",
+    "hash_propio": "4cb0e7d20ef9e9cd28cc9258c3fbfb5a23799f57b62a22d59dcd80eaf474a00d"
+  },
+  {
+    "indice": 7,
+    "timestamp": 1788998290.111171,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08663f2758d164",
+      "fecha_hora": "09/09/2026 08:34",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 La educación en crisis",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 78.33,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4cb0e7d20ef9e9cd28cc9258c3fbfb5a23799f57b62a22d59dcd80eaf474a00d",
+    "hash_propio": "49ea346272b73b4fa7c7caf27b31c61e27969b1ec4bcf01066353d3620401d0d"
+  },
+  {
+    "indice": 8,
+    "timestamp": 1788998290.1112018,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a084c2481336fba",
+      "fecha_hora": "09/09/2026 01:02",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "SumUp Joins Manchester United’s Global Commercial Lineup",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 83.84,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "49ea346272b73b4fa7c7caf27b31c61e27969b1ec4bcf01066353d3620401d0d",
+    "hash_propio": "0ca1a915c595ca9b9638504614004ff4abf8ec788fc1d238ee1291fa5f195213"
+  },
+  {
+    "indice": 9,
+    "timestamp": 1788998290.1112318,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0839fc87c444c6",
+      "fecha_hora": "08/09/2026 19:44",
+      "remitente": "\"领英\" <notifications-noreply@linkedin.com>",
+      "asunto": "您有 4 条新消息",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.85,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0ca1a915c595ca9b9638504614004ff4abf8ec788fc1d238ee1291fa5f195213",
+    "hash_propio": "9c21abb4cc9b108d966714fbc649e16b42edeb85ea9e83cfdcd2c3479375db37"
+  },
+  {
+    "indice": 10,
+    "timestamp": 1788998290.1112585,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0837b1c06f3758",
+      "fecha_hora": "08/09/2026 19:04",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "Coordinador de Equipos en GRUPO ANDRADE RENTS S.A.C. 1 empleo ingeniero sistemas más en Áncash",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.86,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "9c21abb4cc9b108d966714fbc649e16b42edeb85ea9e83cfdcd2c3479375db37",
+    "hash_propio": "7ef347dbab9f416d337f5aa527965ae20e9bb8b29cc82a300515809dd2c60bda"
+  },
+  {
+    "indice": 11,
+    "timestamp": 1788998290.111288,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08308c2ff6a4cb",
+      "fecha_hora": "08/09/2026 16:59",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Por tu seguridad, te notificaremos por cada yapeo que realices",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 19.13,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "7ef347dbab9f416d337f5aa527965ae20e9bb8b29cc82a300515809dd2c60bda",
+    "hash_propio": "67f4264198b61767cbf3a45bc9cb13b129dfd263d1cbc50b207e43eef011c1e8"
+  },
+  {
+    "indice": 12,
+    "timestamp": 1788998290.1113157,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a082968740e3334",
+      "fecha_hora": "08/09/2026 14:54",
+      "remitente": "BCP Comunica <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "🔎 Revisa si tienes un Préstamo BCP disponible",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 82.52,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "67f4264198b61767cbf3a45bc9cb13b129dfd263d1cbc50b207e43eef011c1e8",
+    "hash_propio": "d7e573bfbc35482b6ca4773af7a4eaac1582aa3350a5e0b7fc01d99875effe39"
+  },
+  {
+    "indice": 13,
+    "timestamp": 1788998290.1113427,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0828947d2a73d2",
+      "fecha_hora": "08/09/2026 14:40",
+      "remitente": "BCP COMUNICA <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "¿Ya estás participando por hasta S/20,000? 🤔",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.26,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d7e573bfbc35482b6ca4773af7a4eaac1582aa3350a5e0b7fc01d99875effe39",
+    "hash_propio": "f06bed41e8f7bcf772d694d956e3a2e454346c5fdef155ad335dcaeb245c8c2e"
+  },
+  {
+    "indice": 14,
+    "timestamp": 1788998290.1113691,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a081c27600c3bdd",
+      "fecha_hora": "08/09/2026 11:03",
+      "remitente": "Rowan University <webinar@docsity.com>",
+      "asunto": "Estudia en EE. UU.: ¡Webinar en vivo gratuito!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 60.79,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "f06bed41e8f7bcf772d694d956e3a2e454346c5fdef155ad335dcaeb245c8c2e",
+    "hash_propio": "8dadeb7d1877b5d57b6ce1f086fbabb2ea5d13b5b4ea40140e476395c8cd0b43"
+  },
+  {
+    "indice": 15,
+    "timestamp": 1788998290.1113956,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08148a4062cda2",
+      "fecha_hora": "08/09/2026 08:43",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 La inseguridad como prioridad",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 72.39,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "8dadeb7d1877b5d57b6ce1f086fbabb2ea5d13b5b4ea40140e476395c8cd0b43",
+    "hash_propio": "24ba987bf40f13b1bb263693b78bb51e04873f3fe6cc92172a188d9345b2bea1"
+  },
+  {
+    "indice": 16,
+    "timestamp": 1788998290.1114237,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07f9c82ebffe67",
+      "fecha_hora": "08/09/2026 01:02",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Grok Can Now See Your Finances Through Plaid",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 19.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "24ba987bf40f13b1bb263693b78bb51e04873f3fe6cc92172a188d9345b2bea1",
+    "hash_propio": "fd339e1af21ab8425b1909c0feec6509e6e1cccb35364d27de27b694d03ef21f"
+  },
+  {
+    "indice": 17,
+    "timestamp": 1788998290.1114514,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07eadff160276c",
+      "fecha_hora": "07/09/2026 20:42",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de PLANNER DE MANTENIMIENTO - PLANTA DE CHANCADO (YUNGAY)? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.61,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "fd339e1af21ab8425b1909c0feec6509e6e1cccb35364d27de27b694d03ef21f",
+    "hash_propio": "ca2bfc559a09ab2d7fa5696134d7ba488895048bdd013c346671ec71884deed4"
+  },
+  {
+    "indice": 18,
+    "timestamp": 1788998290.1114805,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07e6f38de9d568",
+      "fecha_hora": "07/09/2026 19:31",
+      "remitente": "Promociones El Comercio <promociones@comercio.com.pe>",
+      "asunto": "⏰ Tu acceso a TODO El Comercio te espera por S/6 al mes 💛",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.8,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "ca2bfc559a09ab2d7fa5696134d7ba488895048bdd013c346671ec71884deed4",
+    "hash_propio": "3965876b0dcf48a2df281abab4e7c8c7580d638340748bcd03b37c587f5879e7"
+  },
+  {
+    "indice": 19,
+    "timestamp": 1788998290.111508,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07c7470577382b",
+      "fecha_hora": "07/09/2026 10:19",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Por tu seguridad, te notificaremos por cada yapeo que realices",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 20.15,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3965876b0dcf48a2df281abab4e7c8c7580d638340748bcd03b37c587f5879e7",
+    "hash_propio": "f9d2eef4dcb47ba6d34ab128f19942cc73d99aeff0eeee6eb9c45c1dabf05d7c"
+  },
+  {
+    "indice": 20,
+    "timestamp": 1788998290.1115336,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07c221c38e81c3",
+      "fecha_hora": "07/09/2026 08:50",
+      "remitente": "\"GenAI Works通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "🚨 AGI arrived on Sunday",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 73.86,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "f9d2eef4dcb47ba6d34ab128f19942cc73d99aeff0eeee6eb9c45c1dabf05d7c",
+    "hash_propio": "4c0de8a46da0ae941e81441b540dd69ade01f1901b1ad8b9d3934fd123c80573"
+  },
+  {
+    "indice": 21,
+    "timestamp": 1788998290.111559,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07c2084d757ad7",
+      "fecha_hora": "07/09/2026 08:46",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 Se va Arriola",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 85.6,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4c0de8a46da0ae941e81441b540dd69ade01f1901b1ad8b9d3934fd123c80573",
+    "hash_propio": "347f8e6d81791fda92bd4f051d89f9930787ea264c05d14a544708f0f99b4e32"
+  },
+  {
+    "indice": 22,
+    "timestamp": 1788998290.1115859,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07a7575976cf58",
+      "fecha_hora": "07/09/2026 01:01",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "OpenReserve: Dee Choubey’s Next Big Bet",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 39.19,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "347f8e6d81791fda92bd4f051d89f9930787ea264c05d14a544708f0f99b4e32",
+    "hash_propio": "53633c3c870bc52a3355abd826151709d8daded9398968b9a62991e807415f11"
+  },
+  {
+    "indice": 23,
+    "timestamp": 1788998290.111612,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a079fd5eeafef7c",
+      "fecha_hora": "06/09/2026 22:50",
+      "remitente": "Indeed <donotreply@match.indeed.com>",
+      "asunto": "Almacenero / Agencia Courier / Full S/1300 - part S/600 en PERU BOX AIR S.A.C.",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "53633c3c870bc52a3355abd826151709d8daded9398968b9a62991e807415f11",
+    "hash_propio": "d2fc080037d0c0ffc4a448bc0cd2a2ac57ae273d032b91e51f0aea22db4989bf"
+  },
+  {
+    "indice": 24,
+    "timestamp": 1788998290.1116388,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a079a8c9a1441ab",
+      "fecha_hora": "06/09/2026 21:18",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de INGENIERO SSOMA, SANEAMIENTO Y OPERACIONES NUEVO CHIMBOTE? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.42,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d2fc080037d0c0ffc4a448bc0cd2a2ac57ae273d032b91e51f0aea22db4989bf",
+    "hash_propio": "f61a92e1e9cc2111e1254b17f8d6e069fdbb200ea43e4903b758710b1279127d"
+  },
+  {
+    "indice": 25,
+    "timestamp": 1788998290.1116664,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a079725be817881",
+      "fecha_hora": "06/09/2026 20:17",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "Últimos avisos de empleo en Ancash, consulta las opciones",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 71.08,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "f61a92e1e9cc2111e1254b17f8d6e069fdbb200ea43e4903b758710b1279127d",
+    "hash_propio": "f0b76a25182e69abbb1ed938882cb1306ce873cc93bbadba1f9ca68dd0aa3423"
+  },
+  {
+    "indice": 26,
+    "timestamp": 1788998290.1116922,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a078d12b20c8cc7",
+      "fecha_hora": "06/09/2026 17:19",
+      "remitente": "Novedades Computrabajo <empleos@computrabajo.com>",
+      "asunto": "📍 Tu próximo empleo está a solo un clic de distancia",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.29,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "f0b76a25182e69abbb1ed938882cb1306ce873cc93bbadba1f9ca68dd0aa3423",
+    "hash_propio": "741bece7ba4170ca31cd9ee86b5ad242cf3a125bc86b1f842d7beb1402ebfddb"
+  },
+  {
+    "indice": 27,
+    "timestamp": 1788998290.1117184,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a077d4c549789c7",
+      "fecha_hora": "06/09/2026 12:47",
+      "remitente": "\"Gerardo Zaldúa通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "HACK #106: Lecciones aprendidas",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.01,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "741bece7ba4170ca31cd9ee86b5ad242cf3a125bc86b1f842d7beb1402ebfddb",
+    "hash_propio": "c71a66728023a04162f1075541286bd1c0aa64a6b9f9f7291ee8c29f3dae8aa3"
+  },
+  {
+    "indice": 28,
+    "timestamp": 1788998290.1117454,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a077194a2f6423f",
+      "fecha_hora": "06/09/2026 09:12",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "Nuevas vacantes de Promotor/a de telecomunicaciones listas para postularte",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 70.37,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "c71a66728023a04162f1075541286bd1c0aa64a6b9f9f7291ee8c29f3dae8aa3",
+    "hash_propio": "336ec21a64c4f59aef1f51861f804710dbb25037c4f23fa980a22cedf327e83a"
+  },
+  {
+    "indice": 29,
+    "timestamp": 1788998290.111771,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07709d7e8dbf4e",
+      "fecha_hora": "06/09/2026 08:56",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 El 11-S, 25 años después: así cambió el mundo",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 67.58,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "336ec21a64c4f59aef1f51861f804710dbb25037c4f23fa980a22cedf327e83a",
+    "hash_propio": "569c2bca64950446bb6103a9b8ed9cc86f2d5b89f4833c99f30c97161dec5fb8"
+  },
+  {
+    "indice": 30,
+    "timestamp": 1788998290.1117964,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0754817307dec9",
+      "fecha_hora": "06/09/2026 00:54",
+      "remitente": "\"Jordi Alemany通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Rotación Temprana: La Factura Que Te Pasa El Talento Por Tu Incoherencia.",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.03,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "569c2bca64950446bb6103a9b8ed9cc86f2d5b89f4833c99f30c97161dec5fb8",
+    "hash_propio": "aaac4ab9f38c2a5244c0f48795b212dbc141d660b6ee4cfbb3e24a493b0496b5"
+  },
+  {
+    "indice": 31,
+    "timestamp": 1788998290.1118333,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a074117b5e663ee",
+      "fecha_hora": "05/09/2026 19:14",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de INGENIERO SSOMA, SANEAMIENTO Y OPERACIONES NUEVO CHIMBOTE? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.48,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "aaac4ab9f38c2a5244c0f48795b212dbc141d660b6ee4cfbb3e24a493b0496b5",
+    "hash_propio": "2f3a20e3126d89b89dcb3520a1e93c2eebce56f64892a5fd467b0a52e790ac14"
+  },
+  {
+    "indice": 32,
+    "timestamp": 1788998290.1118622,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07302da97129ca",
+      "fecha_hora": "05/09/2026 14:17",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "marcelo, tienes nuevas ofertas de empleo esperándote",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 48.44,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "2f3a20e3126d89b89dcb3520a1e93c2eebce56f64892a5fd467b0a52e790ac14",
+    "hash_propio": "3a2db822f144e1d83bf4a4256ab198e3de34898903b59e618f511e95448dec15"
+  },
+  {
+    "indice": 33,
+    "timestamp": 1788998290.111888,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a071ee7000251a5",
+      "fecha_hora": "05/09/2026 09:17",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Por tu seguridad, te notificaremos por cada yapeo que realices",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 20.37,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3a2db822f144e1d83bf4a4256ab198e3de34898903b59e618f511e95448dec15",
+    "hash_propio": "d1c556f139ccfd544f3fc73d83e20824b596987ae36af400a84790a3af6d73e2"
+  },
+  {
+    "indice": 34,
+    "timestamp": 1788998290.111913,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a071d7b99fc7fb0",
+      "fecha_hora": "05/09/2026 08:40",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 El Niño: la memoria de los antiguos peruanos",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 17.87,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d1c556f139ccfd544f3fc73d83e20824b596987ae36af400a84790a3af6d73e2",
+    "hash_propio": "6fd3948c6c4549ef86a12ce5c41a841681b20a8d34f1b3827aa3b7cd16ea4d9b"
+  },
+  {
+    "indice": 35,
+    "timestamp": 1788998290.1119385,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06f3bb79bd0666",
+      "fecha_hora": "04/09/2026 20:42",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de INGENIERO SSOMA, SANEAMIENTO Y OPERACIONES NUEVO CHIMBOTE? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.08,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6fd3948c6c4549ef86a12ce5c41a841681b20a8d34f1b3827aa3b7cd16ea4d9b",
+    "hash_propio": "b59951abcf31873440a62cc2844a54be6736fdf00a110ec2aa34440142495d06"
+  },
+  {
+    "indice": 36,
+    "timestamp": 1788998290.1119657,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06efdcc2a16f7b",
+      "fecha_hora": "04/09/2026 19:33",
+      "remitente": "Promociones El Comercio <promociones@comercio.com.pe>",
+      "asunto": "🚨 S/6 al mes por TODO El Comercio. Solo tienes que decir que sí🔥",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.72,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b59951abcf31873440a62cc2844a54be6736fdf00a110ec2aa34440142495d06",
+    "hash_propio": "36f8caf5d06108aca21a1a0fb051b95850748db4ffd7c7af2f85a32b3d94767a"
+  },
+  {
+    "indice": 37,
+    "timestamp": 1788998290.1119924,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06e652afeb7446",
+      "fecha_hora": "04/09/2026 16:48",
+      "remitente": "Asana <news@email.1.asana.com>",
+      "asunto": "Updates to Asana’s Privacy Statement and other legal terms",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.06,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "36f8caf5d06108aca21a1a0fb051b95850748db4ffd7c7af2f85a32b3d94767a",
+    "hash_propio": "9206803883a474c9f836a31cc93d2906b5fd202a4f3cae23453329dc1b3efd0a"
+  },
+  {
+    "indice": 38,
+    "timestamp": 1788998290.112018,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06e40950c88533",
+      "fecha_hora": "04/09/2026 16:08",
+      "remitente": "\"ᴳ ᴵ ᴸ on Instagram\" <posts-recap@mail.instagram.com>",
+      "asunto": "vigotitoh ha compartido algo nuevo",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 5.68,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "9206803883a474c9f836a31cc93d2906b5fd202a4f3cae23453329dc1b3efd0a",
+    "hash_propio": "ce3fffd19ee64701f0ace8922032ca7c8801a2e5c2a1c0f1eca8eb5b63daedad"
+  },
+  {
+    "indice": 39,
+    "timestamp": 1788998290.112045,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06e1c9d5c6b858",
+      "fecha_hora": "04/09/2026 15:16",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "¡Te buscan para nuevos empleos!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 72.27,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "ce3fffd19ee64701f0ace8922032ca7c8801a2e5c2a1c0f1eca8eb5b63daedad",
+    "hash_propio": "0f748e36e4d322456dad1b9aa105801da283d1d228971c63dd1ec54302e65aa9"
+  },
+  {
+    "indice": 40,
+    "timestamp": 1788998290.1120706,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06d421265e0fe3",
+      "fecha_hora": "04/09/2026 11:30",
+      "remitente": "BCP Comunica <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "🚀 A un paso de tu nueva 💳. Descubre si tienes una preaprobada👇 ",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 72.34,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0f748e36e4d322456dad1b9aa105801da283d1d228971c63dd1ec54302e65aa9",
+    "hash_propio": "167285a39d603b037047ef5059446d2494b1d3b0e336e816c3a655cfac719d1a"
+  },
+  {
+    "indice": 41,
+    "timestamp": 1788998290.112099,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06d18c54caa3a1",
+      "fecha_hora": "04/09/2026 10:45",
+      "remitente": "Quillbot <updates@mail.quillbot.com>",
+      "asunto": "Última oportunidad: 40 % menos",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.18,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "167285a39d603b037047ef5059446d2494b1d3b0e336e816c3a655cfac719d1a",
+    "hash_propio": "eba0f67504c3e105bc216aa863be27b169b9e4221aabbd44d41123e0a574791f"
+  },
+  {
+    "indice": 42,
+    "timestamp": 1788998290.1121247,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06d0d76de6163e",
+      "fecha_hora": "04/09/2026 10:33",
+      "remitente": "Canva <product@engage.canva.com>",
+      "asunto": "Convierte tu presentación en un Doc",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 20.0,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "eba0f67504c3e105bc216aa863be27b169b9e4221aabbd44d41123e0a574791f",
+    "hash_propio": "3c29e2dbb947d93c1cc2160bce85565a84a4528a86f5074f66cc24a05760bc66"
+  },
+  {
+    "indice": 43,
+    "timestamp": 1788998290.112153,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06cac6dcda0388",
+      "fecha_hora": "04/09/2026 08:35",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 Agresión a Uribe",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 88.02,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3c29e2dbb947d93c1cc2160bce85565a84a4528a86f5074f66cc24a05760bc66",
+    "hash_propio": "7d030938a420e3d1416e0b1d38e4291cb03ffb2a7e0eafe1faace4b2ef99c46a"
+  },
+  {
+    "indice": 44,
+    "timestamp": 1788998290.1121793,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06c73a39f9b41d",
+      "fecha_hora": "04/09/2026 07:45",
+      "remitente": "\"GenAI Works通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "👑 Nvidia builds an AI empire",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.22,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "7d030938a420e3d1416e0b1d38e4291cb03ffb2a7e0eafe1faace4b2ef99c46a",
+    "hash_propio": "fba59b897efc8ccba2cb93b5837be792bad60f7b56fcaadedd868883d7e27420"
+  },
+  {
+    "indice": 45,
+    "timestamp": 1788998290.1122067,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06c678ce3ed822",
+      "fecha_hora": "04/09/2026 07:31",
+      "remitente": "\"JOB`S通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Cierre del ciclo agosto + Anuncio del próximo Live 18 sept",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.85,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "fba59b897efc8ccba2cb93b5837be792bad60f7b56fcaadedd868883d7e27420",
+    "hash_propio": "914e7644438655ee54853623fb938514fb6dc0a3d923c52cbb63d9fb4227a1a0"
+  },
+  {
+    "indice": 46,
+    "timestamp": 1788998290.112233,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06b018a64606b0",
+      "fecha_hora": "04/09/2026 01:00",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Revolut Clears a Major U.S. Banking Hurdle",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.33,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "914e7644438655ee54853623fb938514fb6dc0a3d923c52cbb63d9fb4227a1a0",
+    "hash_propio": "59acc96f5b50e3b78fde3306409d993025e360e6cbfc70dcaa9634d7d0c862a4"
+  },
+  {
+    "indice": 47,
+    "timestamp": 1788998290.11226,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06a8ae899b1097",
+      "fecha_hora": "03/09/2026 22:51",
+      "remitente": "Indeed <donotreply@match.indeed.com>",
+      "asunto": "ING. DE SANEAMIENTO AMBIENTAL, OPERACIONES Y SSOMA en R&S",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "59acc96f5b50e3b78fde3306409d993025e360e6cbfc70dcaa9634d7d0c862a4",
+    "hash_propio": "a6a21e2708ffeacf52d32f5cfac5da377e02b9c21ea28618f63aa2535bd11be9"
+  },
+  {
+    "indice": 48,
+    "timestamp": 1788998290.1122856,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06a58c9e3f2fae",
+      "fecha_hora": "03/09/2026 21:56",
+      "remitente": "Google <no-reply@accounts.google.com>",
+      "asunto": "Alerta de seguridad",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.39,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "a6a21e2708ffeacf52d32f5cfac5da377e02b9c21ea28618f63aa2535bd11be9",
+    "hash_propio": "468fbe01b7513fd309323cd380603ce8f7790492a272897c6913dfa52d84988d"
+  },
+  {
+    "indice": 49,
+    "timestamp": 1788998290.112311,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06a39bb4dba6be",
+      "fecha_hora": "03/09/2026 21:14",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "¡7 nuevas oportunidades laborales en Lima!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 82.17,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "468fbe01b7513fd309323cd380603ce8f7790492a272897c6913dfa52d84988d",
+    "hash_propio": "e8a73ed1ea482e1489691a795362469c93837379005c0061dbaf587473ea6c9a"
+  },
+  {
+    "indice": 50,
+    "timestamp": 1788998290.1123457,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a069bf1f3fb9139",
+      "fecha_hora": "03/09/2026 19:08",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de INGENIERO SSOMA, SANEAMIENTO Y OPERACIONES NUEVO CHIMBOTE? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.54,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e8a73ed1ea482e1489691a795362469c93837379005c0061dbaf587473ea6c9a",
+    "hash_propio": "49eaf1567ab65812abd3d67d81303e6e7cd168ce01bc49083ec10b1df466f16d"
+  },
+  {
+    "indice": 51,
+    "timestamp": 1788998290.1123726,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a069181dbd1e07f",
+      "fecha_hora": "03/09/2026 16:06",
+      "remitente": "\"Gary Vaynerchuk通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "The Secret to Winning: Think Decades, Move Daily",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 5.83,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "49eaf1567ab65812abd3d67d81303e6e7cd168ce01bc49083ec10b1df466f16d",
+    "hash_propio": "ae2b3939472ec062a77bf5d6759da1c0b25dc3a7ec99fe68ed41c1b25ecca17b"
+  },
+  {
+    "indice": 52,
+    "timestamp": 1789020248.4434743,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0647c720a51cf8",
+      "fecha_hora": "02/09/2026 18:37",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 7.79,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "ae2b3939472ec062a77bf5d6759da1c0b25dc3a7ec99fe68ed41c1b25ecca17b",
+    "hash_propio": "51c5f9bc2a2336d1c34f60d6288504043e882dc6c6d1e8481c76f2cb3d123459"
+  },
+  {
+    "indice": 53,
+    "timestamp": 1789020248.4441996,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0547bf5bdcd7b0",
+      "fecha_hora": "30/08/2026 16:03",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 5.31,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "51c5f9bc2a2336d1c34f60d6288504043e882dc6c6d1e8481c76f2cb3d123459",
+    "hash_propio": "4e3698aeae9ca287ab3e88982eb94b9c4835ab20cbe625d8ec0e982aeff9f83b"
+  },
+  {
+    "indice": 54,
+    "timestamp": 1789020248.4443028,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a01ba3e047bc949",
+      "fecha_hora": "19/08/2026 15:08",
+      "remitente": "\"Disney+\" <disneyplus@messaging.disneyplus.com>",
+      "asunto": "¿Reactivaste tu suscripción?",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 2.58,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4e3698aeae9ca287ab3e88982eb94b9c4835ab20cbe625d8ec0e982aeff9f83b",
+    "hash_propio": "88825738ffd934b5dfc5e84fcafb62032f0402f07598a52fee1b1f8f974e7399"
+  },
+  {
+    "indice": 55,
+    "timestamp": 1789020248.4443755,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19fd7769696acc6c",
+      "fecha_hora": "06/08/2026 09:24",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 8.64,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "88825738ffd934b5dfc5e84fcafb62032f0402f07598a52fee1b1f8f974e7399",
+    "hash_propio": "bf0b870530bb2aab7128a54c19b7a6960376816781d39dc3343a975af0cfc41d"
+  },
+  {
+    "indice": 56,
+    "timestamp": 1789020248.4444396,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19fb4b1b9e60d7a9",
+      "fecha_hora": "30/07/2026 15:22",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 5.58,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "bf0b870530bb2aab7128a54c19b7a6960376816781d39dc3343a975af0cfc41d",
+    "hash_propio": "3453cf686e9fe20a208c1568749f8e19782ccf0a79b02445dd684e2718d04845"
+  },
+  {
+    "indice": 57,
+    "timestamp": 1789020248.4444988,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19fa9c0d855dc364",
+      "fecha_hora": "28/07/2026 12:23",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.46,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3453cf686e9fe20a208c1568749f8e19782ccf0a79b02445dd684e2718d04845",
+    "hash_propio": "3bbaff63f5edf2ae62e040170d736fcf0b36aa834829ddb890d8f509178d9a99"
+  },
+  {
+    "indice": 58,
+    "timestamp": 1789020248.4445493,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19fa0457db28fd17",
+      "fecha_hora": "26/07/2026 16:12",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 4.65,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3bbaff63f5edf2ae62e040170d736fcf0b36aa834829ddb890d8f509178d9a99",
+    "hash_propio": "253f00dde908ed62014205dad8c8d8e024c1afb405039b672116d2db7be8e57c"
+  },
+  {
+    "indice": 59,
+    "timestamp": 1789020248.4446018,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f775ef2a80b156",
+      "fecha_hora": "18/07/2026 17:35",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Realizaste un consumo con tu Tarjeta de Débito BCP - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 41.72,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "253f00dde908ed62014205dad8c8d8e024c1afb405039b672116d2db7be8e57c",
+    "hash_propio": "d5ac0ce23d50a9b5735b1d52dbc574eadc0a5f20c0cb2083070d564075f335c6"
+  },
+  {
+    "indice": 60,
+    "timestamp": 1789020248.4446518,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f624c6cf83ec9a",
+      "fecha_hora": "14/07/2026 15:23",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Realizaste un consumo con tu Tarjeta de Débito BCP - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 39.76,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d5ac0ce23d50a9b5735b1d52dbc574eadc0a5f20c0cb2083070d564075f335c6",
+    "hash_propio": "0d963ced6ae33ceafbf0b1d1a484199ffa9b0e1a9991f799937b367241eac5da"
+  },
+  {
+    "indice": 61,
+    "timestamp": 1789020248.4446814,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f490e2b420866c",
+      "fecha_hora": "09/07/2026 17:44",
+      "remitente": "Lucas de Justdone <lucas@mail.justdone.ai>",
+      "asunto": "¡Tu texto humanizado ya está listo para descargar!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 96.45,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0d963ced6ae33ceafbf0b1d1a484199ffa9b0e1a9991f799937b367241eac5da",
+    "hash_propio": "867029ec7e82bcb5845d9a431314ee2ecf8a0589d3e7c5f603d75af2bd506843"
+  },
+  {
+    "indice": 62,
+    "timestamp": 1789020248.4447122,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f434a89c228949",
+      "fecha_hora": "08/07/2026 14:53",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 6.77,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "867029ec7e82bcb5845d9a431314ee2ecf8a0589d3e7c5f603d75af2bd506843",
+    "hash_propio": "c4e7dbf68ec9f580538ec2bd86dfdbeb9a9d7fdb14cf7f2b7b05efba9a32bc86"
+  },
+  {
+    "indice": 63,
+    "timestamp": 1789020248.444761,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f35464ec585f90",
+      "fecha_hora": "05/07/2026 21:33",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Realizaste un consumo con tu Tarjeta de Débito BCP - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 41.28,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "c4e7dbf68ec9f580538ec2bd86dfdbeb9a9d7fdb14cf7f2b7b05efba9a32bc86",
+    "hash_propio": "07ae58013011b105cb2a6466433387bde0dcf9ea44ca9b3d871d9360d4fa60e5"
+  },
+  {
+    "indice": 64,
+    "timestamp": 1789020248.4448133,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f2a8cb0db8cdf5",
+      "fecha_hora": "03/07/2026 19:34",
+      "remitente": "\"pe_facturacion_distribucion@mail.gosocket.net\" <pe_facturacion_distribucion@mail.gosocket.net>",
+      "asunto": "ClickDelivery S.A.C",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 87.93,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "07ae58013011b105cb2a6466433387bde0dcf9ea44ca9b3d871d9360d4fa60e5",
+    "hash_propio": "317b7a502a970bf497b8743dc4c39dbed9bcdc0145ef25ae613a54a5b32423f5"
+  },
+  {
+    "indice": 65,
+    "timestamp": 1789020248.4448652,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f1fcd59287d5ba",
+      "fecha_hora": "01/07/2026 17:29",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 2.48,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "317b7a502a970bf497b8743dc4c39dbed9bcdc0145ef25ae613a54a5b32423f5",
+    "hash_propio": "f23ee9eb293ef124e0f6a782dd5a98a568727fea962b9afc107a4eaa79f9ad2a"
+  },
+  {
+    "indice": 66,
+    "timestamp": 1789020248.4449105,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19f19fe8f0666e3b",
+      "fecha_hora": "30/06/2026 14:25",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 10.85,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "f23ee9eb293ef124e0f6a782dd5a98a568727fea962b9afc107a4eaa79f9ad2a",
+    "hash_propio": "e6a0272c21ef8eb76ba1bff9a53261df2d0a3cd070b97c95759c040cf9229bad"
+  },
+  {
+    "indice": 67,
+    "timestamp": 1789020248.4449587,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ed8086d5c49068",
+      "fecha_hora": "17/06/2026 19:01",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Realizaste un consumo con tu Tarjeta de Débito BCP - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 39.12,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e6a0272c21ef8eb76ba1bff9a53261df2d0a3cd070b97c95759c040cf9229bad",
+    "hash_propio": "b9310e62121d96f29b891761fda1501be45775f886d6b7a31005edad50ffe153"
+  },
+  {
+    "indice": 68,
+    "timestamp": 1789020248.44499,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19eaec0a045598f1",
+      "fecha_hora": "09/06/2026 18:38",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 11.33,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b9310e62121d96f29b891761fda1501be45775f886d6b7a31005edad50ffe153",
+    "hash_propio": "4758c5a5a3c2fea03089e74cba26cffcda9d343d4467d3dbe5a5a34b3d10e453"
+  },
+  {
+    "indice": 69,
+    "timestamp": 1789020248.4450169,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e83a6b33bedc02",
+      "fecha_hora": "01/06/2026 09:46",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 2.42,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4758c5a5a3c2fea03089e74cba26cffcda9d343d4467d3dbe5a5a34b3d10e453",
+    "hash_propio": "d005ebada42e7fb6cb1377907fda1b99ea6349074ea485d91db4a90f449cec3e"
+  },
+  {
+    "indice": 70,
+    "timestamp": 1789020248.4450436,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e74a50e3aa5080",
+      "fecha_hora": "29/05/2026 11:50",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 14.96,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d005ebada42e7fb6cb1377907fda1b99ea6349074ea485d91db4a90f449cec3e",
+    "hash_propio": "eb40248042364b688a566e033653b4408c5fc0f49acc90d005e4d488d733c8e1"
+  },
+  {
+    "indice": 71,
+    "timestamp": 1789020248.4450693,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e17eaccf7a40ed",
+      "fecha_hora": "11/05/2026 11:42",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 17.74,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "eb40248042364b688a566e033653b4408c5fc0f49acc90d005e4d488d733c8e1",
+    "hash_propio": "40b9d54f88aff0681d2310e629fb5d4d65f9ae3b810db78bdcef205c309efecd"
+  },
+  {
+    "indice": 72,
+    "timestamp": 1789020248.445095,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19deaedf885c4bbd",
+      "fecha_hora": "02/05/2026 18:02",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.89,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "40b9d54f88aff0681d2310e629fb5d4d65f9ae3b810db78bdcef205c309efecd",
+    "hash_propio": "8ce79f28b7ccea9c5109d1168023d05d267b9b7397aa59fca11cbb4a4693f298"
+  },
+  {
+    "indice": 73,
+    "timestamp": 1789020248.445121,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ddb79b411dd162",
+      "fecha_hora": "29/04/2026 18:01",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 10.41,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "8ce79f28b7ccea9c5109d1168023d05d267b9b7397aa59fca11cbb4a4693f298",
+    "hash_propio": "1e43deebab01061620383341ebabd4d9ec24aa2579f9995832e46490c2722fc3"
+  },
+  {
+    "indice": 74,
+    "timestamp": 1789020248.4451482,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19dc6934d4a3ab6b",
+      "fecha_hora": "25/04/2026 16:37",
+      "remitente": "Jooble <subscribe@pe.jooble.org>",
+      "asunto": "Cancelar la suscripción - Técnico de correctivos en Telecomunicaciones / Chimbote, Chimbote, Ancash y otras",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 88.93,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "1e43deebab01061620383341ebabd4d9ec24aa2579f9995832e46490c2722fc3",
+    "hash_propio": "0f32dcc14d3131cd22bfcf62461bc867e3e3ae5ba21043838a6334109af621fa"
+  },
+  {
+    "indice": 75,
+    "timestamp": 1789020248.4451756,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19dc07af9cfc0d5f",
+      "fecha_hora": "24/04/2026 12:12",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 6.77,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0f32dcc14d3131cd22bfcf62461bc867e3e3ae5ba21043838a6334109af621fa",
+    "hash_propio": "d831f5bfe125341f4ab89ffa7f8965bd9ee94f543eecfde87cb1f531eaf6aa2e"
+  },
+  {
+    "indice": 76,
+    "timestamp": 1789020248.4452012,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19d67cac38c82730",
+      "fecha_hora": "07/04/2026 06:53",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Tu yapeo de servicio ha sido confirmado",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 8.53,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d831f5bfe125341f4ab89ffa7f8965bd9ee94f543eecfde87cb1f531eaf6aa2e",
+    "hash_propio": "92ee8e55a47c33445efb8abb71b36b0647a9da3b6612e59aabc30861eeeed73a"
+  },
+  {
+    "indice": 77,
+    "timestamp": 1789020295.4311671,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ecabeead209122",
+      "fecha_hora": "15/06/2026 05:06",
+      "remitente": "Google Cloud Certification Team <noreply@google.com>",
+      "asunto": "You have completed the Google Cloud skill badges, the voucher is yours! :-)",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 18.93,
+      "indicadores": {
+        "correo": 0,
+        "url": 0,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "92ee8e55a47c33445efb8abb71b36b0647a9da3b6612e59aabc30861eeeed73a",
+    "hash_propio": "fd69df4db9dc506d24a8e6d89e65878fb754fcca6d34aa31d8d996000f5798b1"
+  },
+  {
+    "indice": 78,
+    "timestamp": 1789020295.4312522,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e4d1399405bc70",
+      "fecha_hora": "21/05/2026 19:26",
+      "remitente": "Instagram <security@mail.instagram.com>",
+      "asunto": "New login to Instagram from Chrome on Windows",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.66,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "fd69df4db9dc506d24a8e6d89e65878fb754fcca6d34aa31d8d996000f5798b1",
+    "hash_propio": "316172f3b3c6857e3d4ffd6a738c85c9ecee2b40cc29edd9852fd6cea13cb510"
+  },
+  {
+    "indice": 79,
+    "timestamp": 1789020295.431297,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e4d1315499ae36",
+      "fecha_hora": "21/05/2026 19:25",
+      "remitente": "Instagram <security@mail.instagram.com>",
+      "asunto": "Verify your account",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.08,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "316172f3b3c6857e3d4ffd6a738c85c9ecee2b40cc29edd9852fd6cea13cb510",
+    "hash_propio": "0ab14032ce1f089fe1e302b04013d7ea9bf3870253c32eec0bec56d8f09e5181"
+  },
+  {
+    "indice": 80,
+    "timestamp": 1789020295.4313314,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e196617b2e3ab2",
+      "fecha_hora": "11/05/2026 18:36",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Constancia de Solicitud de Activación de Token Digital - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 41.46,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0ab14032ce1f089fe1e302b04013d7ea9bf3870253c32eec0bec56d8f09e5181",
+    "hash_propio": "4239e66fe80a0f1707ff8836ce6739d87110406569fe758eacbd205cf9dee57f"
+  },
+  {
+    "indice": 81,
+    "timestamp": 1789020295.4313755,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ddc22d6901fa28",
+      "fecha_hora": "29/04/2026 21:06",
+      "remitente": "no-reply@pokemon.com",
+      "asunto": "¡Te damos la bienvenida al Portal de Entrenadores Pokémon!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 89.66,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4239e66fe80a0f1707ff8836ce6739d87110406569fe758eacbd205cf9dee57f",
+    "hash_propio": "897bcb829adf4e1472bf3bd58101ff19cee1ac97d67a3a90fec58a282e399d52"
+  },
+  {
+    "indice": 82,
+    "timestamp": 1789020295.431408,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ddc229c56b331f",
+      "fecha_hora": "29/04/2026 21:05",
+      "remitente": "no-reply@pokemon.com",
+      "asunto": "Activa tu cuenta del Portal de Entrenadores Pokémon",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 97.75,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "897bcb829adf4e1472bf3bd58101ff19cee1ac97d67a3a90fec58a282e399d52",
+    "hash_propio": "21e72f00998b6f2246a7315912b2aae008ff655a43542b97a73d116208586569"
+  },
+  {
+    "indice": 83,
+    "timestamp": 1789020295.4314365,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ddc1ee723fc030",
+      "fecha_hora": "29/04/2026 21:01",
+      "remitente": "no-reply@pokemon.com",
+      "asunto": "Activa tu cuenta del Central de Entrenadores Pokémon",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 82.06,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "21e72f00998b6f2246a7315912b2aae008ff655a43542b97a73d116208586569",
+    "hash_propio": "6ea9d40eaba9e86e1deeabbfd6faf491237dadf32f9979547a5e3ecb1154aac2"
+  },
+  {
+    "indice": 84,
+    "timestamp": 1789020295.4314632,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19d70fd480ac5830",
+      "fecha_hora": "09/04/2026 01:43",
+      "remitente": "\"T&C Workday\" <workday@bbva.com>",
+      "asunto": "Información sobre tu proceso de selección en BBVA",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.58,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6ea9d40eaba9e86e1deeabbfd6faf491237dadf32f9979547a5e3ecb1154aac2",
+    "hash_propio": "aa98f5eee9766493c9e310759eb4287e72b8088a882baead5d9231cfec9d3bf7"
+  },
+  {
+    "indice": 85,
+    "timestamp": 1789020295.4314926,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19b4ee756919e574",
+      "fecha_hora": "24/12/2025 00:48",
+      "remitente": "Instagram <no-reply@mail.instagram.com>",
+      "asunto": "069381 es tu código de Instagram",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.13,
+      "indicadores": {
+        "correo": 0,
+        "url": 0,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "aa98f5eee9766493c9e310759eb4287e72b8088a882baead5d9231cfec9d3bf7",
+    "hash_propio": "2dfc9f0e2b3b92bb6beda19438f23ed995e246ef6b57dec32ec3c1acc9444b20"
+  },
+  {
+    "indice": 86,
+    "timestamp": 1789020295.431521,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ad21d5a9f27ede",
+      "fecha_hora": "29/11/2025 19:09",
+      "remitente": "<DOCUMENTOSGH@azucarperu.com.pe>",
+      "asunto": "Boleta de Pago de Remuneraciones - NOVIEMBRE 2025",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 90.46,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "2dfc9f0e2b3b92bb6beda19438f23ed995e246ef6b57dec32ec3c1acc9444b20",
+    "hash_propio": "2bd9307ad51a61853fefbe51aa006f64ffcc4f035257736fe7b48957b080a3bc"
+  },
+  {
+    "indice": 87,
+    "timestamp": 1789020295.431547,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199b11e4127f12a8",
+      "fecha_hora": "04/10/2025 16:26",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Constancia de Activación de Token Digital - Servicio de Notificaciones BCP",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 51.38,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "2bd9307ad51a61853fefbe51aa006f64ffcc4f035257736fe7b48957b080a3bc",
+    "hash_propio": "96328b8e37f44d958af68ba58cacaba7dd577b604851249ee369481b22c30cbd"
+  },
+  {
+    "indice": 88,
+    "timestamp": 1789020295.4315743,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199b11e37b2024a9",
+      "fecha_hora": "04/10/2025 16:26",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Constancia de Solicitud de Activación de Token Digital - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 41.22,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "96328b8e37f44d958af68ba58cacaba7dd577b604851249ee369481b22c30cbd",
+    "hash_propio": "3f4c84a7310ce18210c87cf8b301e5caea6a683f68320286b255b45752c3bc82"
+  },
+  {
+    "indice": 89,
+    "timestamp": 1789020295.4316008,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199736fa7b567f93",
+      "fecha_hora": "22/09/2025 16:58",
+      "remitente": "\"Prac. Seleccion - Silva, Larissa (Agroind. San Jacinto S.A.A.)\" <pracseleccapacasj02@azucarperu.com.pe>",
+      "asunto": "Plataforma Lidera Tu Desarrollo | Capacitaciones Virtuales",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.83,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3f4c84a7310ce18210c87cf8b301e5caea6a683f68320286b255b45752c3bc82",
+    "hash_propio": "b378b2aa5196020f891b1e806cb9569b698ceb25d05e1f9d7a2d0c688c4baabb"
+  },
+  {
+    "indice": 90,
+    "timestamp": 1789020295.4316278,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199464629e897e01",
+      "fecha_hora": "13/09/2025 22:30",
+      "remitente": "Riot Games <noreply@mail.accounts.riotgames.com>",
+      "asunto": "Código de inicio de sesión: 600461",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 11.61,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b378b2aa5196020f891b1e806cb9569b698ceb25d05e1f9d7a2d0c688c4baabb",
+    "hash_propio": "3d6a966627ca4b9ac88f393e82abbf01d29fe12134162c443bc783efa69fc12d"
+  },
+  {
+    "indice": 91,
+    "timestamp": 1789020295.4316545,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1994641a9cd7bd7f",
+      "fecha_hora": "13/09/2025 22:25",
+      "remitente": "Riot Games <noreply@umail.accounts.riotgames.com>",
+      "asunto": "Código de inicio de sesión: 529673",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.69,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3d6a966627ca4b9ac88f393e82abbf01d29fe12134162c443bc783efa69fc12d",
+    "hash_propio": "4de2f23f32c0ea7394df17e0b286d9b3b4e1f92b9c5a45a9fec050c4a51c894d"
+  },
+  {
+    "indice": 92,
+    "timestamp": 1789020295.4316802,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1993b72a25b05e94",
+      "fecha_hora": "11/09/2025 20:03",
+      "remitente": "Microsoft account team <account-security-noreply@accountprotection.microsoft.com>",
+      "asunto": "Microsoft account security info was added",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 97.7,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4de2f23f32c0ea7394df17e0b286d9b3b4e1f92b9c5a45a9fec050c4a51c894d",
+    "hash_propio": "5afe21a7a3f0038a2b6ce28a270281bcf2d2aa1eb1fbcc18acab1b866eb9d2c5"
+  },
+  {
+    "indice": 93,
+    "timestamp": 1789020295.4317095,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1993b7034610260d",
+      "fecha_hora": "11/09/2025 20:00",
+      "remitente": "Microsoft account team <account-security-noreply@accountprotection.microsoft.com>",
+      "asunto": "Personal Microsoft account security code",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 66.67,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "5afe21a7a3f0038a2b6ce28a270281bcf2d2aa1eb1fbcc18acab1b866eb9d2c5",
+    "hash_propio": "6a3c224f7d2a47201d695bad14af2aedc34c5edb933f07f907299506342a794d"
+  },
+  {
+    "indice": 94,
+    "timestamp": 1789020295.4317355,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1992f9cf2604a828",
+      "fecha_hora": "09/09/2025 12:53",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Envío Automático - Constancia de Clave de Internet - BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 49.86,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6a3c224f7d2a47201d695bad14af2aedc34c5edb933f07f907299506342a794d",
+    "hash_propio": "aeeb5cee35fbbbb8c80e39266bca260145e11465dae8e3c1bc039539416a4691"
+  },
+  {
+    "indice": 95,
+    "timestamp": 1789020295.4317615,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1990ade33eddea3a",
+      "fecha_hora": "02/09/2025 09:39",
+      "remitente": "\"Prac. Seleccion - Silva, Larissa (Agroind. San Jacinto S.A.A.)\" <pracseleccapacasj02@azucarperu.com.pe>",
+      "asunto": "PROGRAMACION EMO",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 10.44,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 1,
+        "asunto": 1
+      }
+    },
+    "hash_anterior": "aeeb5cee35fbbbb8c80e39266bca260145e11465dae8e3c1bc039539416a4691",
+    "hash_propio": "bdfd16f605e04df2e3e64e1531ce1f7ed928dfbd56781f81929817ea4b4696d8"
+  },
+  {
+    "indice": 96,
+    "timestamp": 1789020295.4317882,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1990c0168edd40ad",
+      "fecha_hora": "02/09/2025 14:57",
+      "remitente": "marcelo flores tarazona <marcelodaniel142001@gmail.com>",
+      "asunto": "Re: BIENVENIDA AL EQUIPO AGROINDUSTRIAS SAN JACINTO S.A.A.",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 9.45,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "bdfd16f605e04df2e3e64e1531ce1f7ed928dfbd56781f81929817ea4b4696d8",
+    "hash_propio": "1635ba0a70527582e8f2ff1986b6271a644ad3ca794e6ac1c6c5987686a86b6d"
+  },
+  {
+    "indice": 97,
+    "timestamp": 1789020295.4318187,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19907646519bb26e",
+      "fecha_hora": "01/09/2025 17:27",
+      "remitente": "\"AGROIND. SAN JACINTO SAA\" <no-responder@evaluarme.com>",
+      "asunto": "Te invitamos a completar las evaluaciones para PRACTICANTE DE SISTEMAS 2025 08 28.",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 90.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "1635ba0a70527582e8f2ff1986b6271a644ad3ca794e6ac1c6c5987686a86b6d",
+    "hash_propio": "8bc2950611dd9f16a3288eae4f4e150cb66a801458a1220f10aabd62f06af289"
+  },
+  {
+    "indice": 98,
+    "timestamp": 1789020295.4318454,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "198f2b95ea348405",
+      "fecha_hora": "28/08/2025 17:08",
+      "remitente": "\"Prac. Seleccion - Silva, Larissa (Agroind. San Jacinto S.A.A.)\" <pracseleccapacasj02@azucarperu.com.pe>",
+      "asunto": "ENTREVISTA - PRACTICANTE DE SISTEMAS",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 11.23,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 1
+      }
+    },
+    "hash_anterior": "8bc2950611dd9f16a3288eae4f4e150cb66a801458a1220f10aabd62f06af289",
+    "hash_propio": "71e404603e7569a124bde14fb7e04d51a7863d09f84dee5976c1b30647911f6d"
+  },
+  {
+    "indice": 99,
+    "timestamp": 1789020295.4318726,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "198f1f7e6bed15d7",
+      "fecha_hora": "28/08/2025 13:36",
+      "remitente": "notificacertijoven@trabajo.gob.pe",
+      "asunto": "MTPE-Validación de correo electrónico",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.92,
+      "indicadores": {
+        "correo": 0,
+        "url": 0,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "71e404603e7569a124bde14fb7e04d51a7863d09f84dee5976c1b30647911f6d",
+    "hash_propio": "3d789bbd324cbc4aa92fb8578e9f1745986b4405f3b2b456dd36db57dc1aceac"
+  },
+  {
+    "indice": 100,
+    "timestamp": 1789020295.431898,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "198f3a54de5e2cea",
+      "fecha_hora": "28/08/2025 21:25",
+      "remitente": "marcelo flores tarazona <marcelodaniel142001@gmail.com>",
+      "asunto": "Re: SOLICITUD DE EMPLEO",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.29,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3d789bbd324cbc4aa92fb8578e9f1745986b4405f3b2b456dd36db57dc1aceac",
+    "hash_propio": "a303c0fee329c2ca4973f9eedf31ce5a107ed1000cfa772b4eec8580d8ae8a55"
+  },
+  {
+    "indice": 101,
+    "timestamp": 1789020295.4319234,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "198cd5526443f145",
+      "fecha_hora": "21/08/2025 10:52",
+      "remitente": "\"Disney+\" <disneyplus@trx.mail2.disneyplus.com>",
+      "asunto": "Tu código de acceso único para Disney+",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.85,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "a303c0fee329c2ca4973f9eedf31ce5a107ed1000cfa772b4eec8580d8ae8a55",
+    "hash_propio": "a0f09ca3047812324efc5225c36a7acfb88f8758e22125e90f4a1c265ab47e27"
+  },
+  {
+    "indice": 102,
+    "timestamp": 1789020413.9557526,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a089ea54ea504ca",
+      "fecha_hora": "10/09/2026 01:03",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Checkout.com Goes Direct in US Acquiring",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 98.27,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "a0f09ca3047812324efc5225c36a7acfb88f8758e22125e90f4a1c265ab47e27",
+    "hash_propio": "0585747d5507bd270b45a2dc88c94caa62abd6cbfda4f546eeceae1fe67bafc8"
+  },
+  {
+    "indice": 103,
+    "timestamp": 1789020413.9558535,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0896f9eac30531",
+      "fecha_hora": "09/09/2026 22:49",
+      "remitente": "Indeed <donotreply@match.indeed.com>",
+      "asunto": "PERSONAL PARA TOMA DE RAYOS X POR CAMPAÑA DE EXAMENES MEDICOS en Centro Medico Mercelab",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 56.06,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0585747d5507bd270b45a2dc88c94caa62abd6cbfda4f546eeceae1fe67bafc8",
+    "hash_propio": "583ef876238899dc3a699ddb9719b0c0abd871914bbd6fe3ae76db0f48466b14"
+  },
+  {
+    "indice": 104,
+    "timestamp": 1789020413.9558952,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a088e9190e026a2",
+      "fecha_hora": "09/09/2026 20:22",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "Coordinador de Equipos en GRUPO ANDRADE RENTS S.A.C. 1 empleo ingeniero sistemas más en Áncash",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.29,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "583ef876238899dc3a699ddb9719b0c0abd871914bbd6fe3ae76db0f48466b14",
+    "hash_propio": "b6dd9e146f8c556fc9bedf02a9dde318f1ce29007182a1bd11c6d1b7eb3ef244"
+  },
+  {
+    "indice": 105,
+    "timestamp": 1789020413.9559307,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a087e4f4e75d608",
+      "fecha_hora": "09/09/2026 15:38",
+      "remitente": "Instagram <follow-suggestions@mail.instagram.com>",
+      "asunto": "Explora a chayita21, maurizzzio_28 y otras personas en tu feed",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 16.12,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b6dd9e146f8c556fc9bedf02a9dde318f1ce29007182a1bd11c6d1b7eb3ef244",
+    "hash_propio": "f451bbe9caf31da24b2b0adba10444a8b140946272b0c9022c65b8b566579cd0"
+  },
+  {
+    "indice": 106,
+    "timestamp": 1789020413.9559622,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a087b85eaf4c5e1",
+      "fecha_hora": "09/09/2026 14:50",
+      "remitente": "LinkedIn <messages-noreply@linkedin.com>",
+      "asunto": "Fabien Nello通关了领英每日谜题游戏。您呢？🏆",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.39,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "f451bbe9caf31da24b2b0adba10444a8b140946272b0c9022c65b8b566579cd0",
+    "hash_propio": "610f2fd981e089cacca26b311fd019f5b08dffbc0c3bddd7e162b9d41aa6d00a"
+  },
+  {
+    "indice": 107,
+    "timestamp": 1789020413.9559915,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0876100d3ca13e",
+      "fecha_hora": "09/09/2026 13:14",
+      "remitente": "BCP Comunica <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "🚀 A un paso de tu nueva 💳. Descubre si tienes una preaprobada👇 ",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 54.31,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "610f2fd981e089cacca26b311fd019f5b08dffbc0c3bddd7e162b9d41aa6d00a",
+    "hash_propio": "6331ec44d81ba4044fe7ecbb27d99d9904c103a15a5b51eb7087a009f9d2863a"
+  },
+  {
+    "indice": 108,
+    "timestamp": 1789020413.95602,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a086cda2b8e600e",
+      "fecha_hora": "09/09/2026 10:33",
+      "remitente": "\"GenAI Works通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "💸 ChatGPT solved a $1 million math problem",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.82,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6331ec44d81ba4044fe7ecbb27d99d9904c103a15a5b51eb7087a009f9d2863a",
+    "hash_propio": "3bd00e839b5f21544d6a6359d89b7eb59e3c985171146839b45237af994079c6"
+  },
+  {
+    "indice": 109,
+    "timestamp": 1789020413.956049,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08675ae0ad4db2",
+      "fecha_hora": "09/09/2026 08:57",
+      "remitente": "\"TP通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Building the operational foundations for AI",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.87,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3bd00e839b5f21544d6a6359d89b7eb59e3c985171146839b45237af994079c6",
+    "hash_propio": "e1f9434e6d6ca9541e7704f37445ad08f91ecd4f6b4be41e3bd94df8dd4b1966"
+  },
+  {
+    "indice": 110,
+    "timestamp": 1789020413.956077,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08663f2758d164",
+      "fecha_hora": "09/09/2026 08:34",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 La educación en crisis",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 78.33,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e1f9434e6d6ca9541e7704f37445ad08f91ecd4f6b4be41e3bd94df8dd4b1966",
+    "hash_propio": "e0b4eae760d0522c7585c8378810475f816be63c1dabbe7eade6908d684afe15"
+  },
+  {
+    "indice": 111,
+    "timestamp": 1789020413.9561057,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a084c2481336fba",
+      "fecha_hora": "09/09/2026 01:02",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "SumUp Joins Manchester United’s Global Commercial Lineup",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 83.84,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e0b4eae760d0522c7585c8378810475f816be63c1dabbe7eade6908d684afe15",
+    "hash_propio": "b01134fd39d2c3cbda516fad1cc3554a3d13e21d74443f480a7b19e73d5f77f7"
+  },
+  {
+    "indice": 112,
+    "timestamp": 1789020413.9561338,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0839fc87c444c6",
+      "fecha_hora": "08/09/2026 19:44",
+      "remitente": "\"领英\" <notifications-noreply@linkedin.com>",
+      "asunto": "您有 4 条新消息",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.85,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b01134fd39d2c3cbda516fad1cc3554a3d13e21d74443f480a7b19e73d5f77f7",
+    "hash_propio": "7fd11336bd41e8e0e176a7a9eb1da5d139eb08988de37c0a7fd9841ba908dc76"
+  },
+  {
+    "indice": 113,
+    "timestamp": 1789020413.9561608,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0837b1c06f3758",
+      "fecha_hora": "08/09/2026 19:04",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "Coordinador de Equipos en GRUPO ANDRADE RENTS S.A.C. 1 empleo ingeniero sistemas más en Áncash",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.86,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "7fd11336bd41e8e0e176a7a9eb1da5d139eb08988de37c0a7fd9841ba908dc76",
+    "hash_propio": "d23b90239af9d0f163cf671bc885321d14ae73f159e17aa83853464134d2eef5"
+  },
+  {
+    "indice": 114,
+    "timestamp": 1789020413.956188,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08308c2ff6a4cb",
+      "fecha_hora": "08/09/2026 16:59",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Por tu seguridad, te notificaremos por cada yapeo que realices",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 19.13,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d23b90239af9d0f163cf671bc885321d14ae73f159e17aa83853464134d2eef5",
+    "hash_propio": "4f4aa7dc32895a47e7a4449eb2bd7dae75820d732f216c3b41eeb30256fc3986"
+  },
+  {
+    "indice": 115,
+    "timestamp": 1789020413.9562137,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a082968740e3334",
+      "fecha_hora": "08/09/2026 14:54",
+      "remitente": "BCP Comunica <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "🔎 Revisa si tienes un Préstamo BCP disponible",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 82.52,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4f4aa7dc32895a47e7a4449eb2bd7dae75820d732f216c3b41eeb30256fc3986",
+    "hash_propio": "2d7154ca7606ac07990992d6e6f372ac195a1bb7f5f5974c7d8412494e10d883"
+  },
+  {
+    "indice": 116,
+    "timestamp": 1789020413.9562416,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0828947d2a73d2",
+      "fecha_hora": "08/09/2026 14:40",
+      "remitente": "BCP COMUNICA <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "¿Ya estás participando por hasta S/20,000? 🤔",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.26,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "2d7154ca7606ac07990992d6e6f372ac195a1bb7f5f5974c7d8412494e10d883",
+    "hash_propio": "4794f66e4ca7775fa714a87055c44d7d728d470d8279ccfe46524cacf68c52d1"
+  },
+  {
+    "indice": 117,
+    "timestamp": 1789020413.9562674,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a081c27600c3bdd",
+      "fecha_hora": "08/09/2026 11:03",
+      "remitente": "Rowan University <webinar@docsity.com>",
+      "asunto": "Estudia en EE. UU.: ¡Webinar en vivo gratuito!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 60.79,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4794f66e4ca7775fa714a87055c44d7d728d470d8279ccfe46524cacf68c52d1",
+    "hash_propio": "b69db77455591c48a56e03d0d08cb12a6778162fc0b4f48dbebaaedef22b1872"
+  },
+  {
+    "indice": 118,
+    "timestamp": 1789020413.9562933,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a08148a4062cda2",
+      "fecha_hora": "08/09/2026 08:43",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 La inseguridad como prioridad",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 72.39,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b69db77455591c48a56e03d0d08cb12a6778162fc0b4f48dbebaaedef22b1872",
+    "hash_propio": "3efe802a5af4fe813e2c2eceab649da259da992b90bdf2df98f006c2e2b987a5"
+  },
+  {
+    "indice": 119,
+    "timestamp": 1789020413.9563203,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07f9c82ebffe67",
+      "fecha_hora": "08/09/2026 01:02",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Grok Can Now See Your Finances Through Plaid",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 19.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3efe802a5af4fe813e2c2eceab649da259da992b90bdf2df98f006c2e2b987a5",
+    "hash_propio": "6d1fbfa03102748b4015b057c0a0fa78c908e3685d90d521c618b94324b3cda2"
+  },
+  {
+    "indice": 120,
+    "timestamp": 1789020413.956355,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07eadff160276c",
+      "fecha_hora": "07/09/2026 20:42",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de PLANNER DE MANTENIMIENTO - PLANTA DE CHANCADO (YUNGAY)? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.61,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6d1fbfa03102748b4015b057c0a0fa78c908e3685d90d521c618b94324b3cda2",
+    "hash_propio": "13e7ca5fe2be12c2e07209566f61c27bd239a8e72460797b82da1a2cb4145506"
+  },
+  {
+    "indice": 121,
+    "timestamp": 1789020413.9563851,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07e6f38de9d568",
+      "fecha_hora": "07/09/2026 19:31",
+      "remitente": "Promociones El Comercio <promociones@comercio.com.pe>",
+      "asunto": "⏰ Tu acceso a TODO El Comercio te espera por S/6 al mes 💛",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.8,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "13e7ca5fe2be12c2e07209566f61c27bd239a8e72460797b82da1a2cb4145506",
+    "hash_propio": "1d28d2fac51d5c6361bbd07bda9829f86a83743f1ca4bede125b0dbf7ee3f428"
+  },
+  {
+    "indice": 122,
+    "timestamp": 1789020413.9564116,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07c7470577382b",
+      "fecha_hora": "07/09/2026 10:19",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Por tu seguridad, te notificaremos por cada yapeo que realices",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 20.15,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "1d28d2fac51d5c6361bbd07bda9829f86a83743f1ca4bede125b0dbf7ee3f428",
+    "hash_propio": "d8d5b51b269d8d01024c1541524566f802875fecd7ef6d06566ee96d2ea08295"
+  },
+  {
+    "indice": 123,
+    "timestamp": 1789020413.956437,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07c221c38e81c3",
+      "fecha_hora": "07/09/2026 08:50",
+      "remitente": "\"GenAI Works通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "🚨 AGI arrived on Sunday",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 73.86,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d8d5b51b269d8d01024c1541524566f802875fecd7ef6d06566ee96d2ea08295",
+    "hash_propio": "b5f5382c43fa32ea6cdd2ebe41c893f43c51125c6704f17b2a00a6c3fce7af2d"
+  },
+  {
+    "indice": 124,
+    "timestamp": 1789020413.956463,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07c2084d757ad7",
+      "fecha_hora": "07/09/2026 08:46",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 Se va Arriola",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 85.6,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b5f5382c43fa32ea6cdd2ebe41c893f43c51125c6704f17b2a00a6c3fce7af2d",
+    "hash_propio": "b5d0d53b21e0ce10c77b3c5d6741986a73587bca2090d2927d164580db2c8f10"
+  },
+  {
+    "indice": 125,
+    "timestamp": 1789020413.9564888,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07a7575976cf58",
+      "fecha_hora": "07/09/2026 01:01",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "OpenReserve: Dee Choubey’s Next Big Bet",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 39.19,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "b5d0d53b21e0ce10c77b3c5d6741986a73587bca2090d2927d164580db2c8f10",
+    "hash_propio": "002b66e6a60dbb3b53055f0ab2ad340281fe15c61d8c35228749184c9cf14a1b"
+  },
+  {
+    "indice": 126,
+    "timestamp": 1789020413.9565153,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a079fd5eeafef7c",
+      "fecha_hora": "06/09/2026 22:50",
+      "remitente": "Indeed <donotreply@match.indeed.com>",
+      "asunto": "Almacenero / Agencia Courier / Full S/1300 - part S/600 en PERU BOX AIR S.A.C.",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "002b66e6a60dbb3b53055f0ab2ad340281fe15c61d8c35228749184c9cf14a1b",
+    "hash_propio": "62be67931dbb0a75c58b121efaa6426857e9e86cd7a50bcba64dfc77329a8ce7"
+  },
+  {
+    "indice": 127,
+    "timestamp": 1789020675.3945057,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a079a8c9a1441ab",
+      "fecha_hora": "06/09/2026 21:18",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de INGENIERO SSOMA, SANEAMIENTO Y OPERACIONES NUEVO CHIMBOTE? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.42,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "62be67931dbb0a75c58b121efaa6426857e9e86cd7a50bcba64dfc77329a8ce7",
+    "hash_propio": "c0c82f1645d67b523f06a7ca960e6699deedc9d76dc2edf1d94249c15a563330"
+  },
+  {
+    "indice": 128,
+    "timestamp": 1789020675.394627,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a079725be817881",
+      "fecha_hora": "06/09/2026 20:17",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "Últimos avisos de empleo en Ancash, consulta las opciones",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 71.08,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "c0c82f1645d67b523f06a7ca960e6699deedc9d76dc2edf1d94249c15a563330",
+    "hash_propio": "29f07e78f255108acb81ccc6541d26e2320b6195dd73a82144c7cd1b0dd9720d"
+  },
+  {
+    "indice": 129,
+    "timestamp": 1789020675.3946815,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a078d12b20c8cc7",
+      "fecha_hora": "06/09/2026 17:19",
+      "remitente": "Novedades Computrabajo <empleos@computrabajo.com>",
+      "asunto": "📍 Tu próximo empleo está a solo un clic de distancia",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.29,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "29f07e78f255108acb81ccc6541d26e2320b6195dd73a82144c7cd1b0dd9720d",
+    "hash_propio": "e5e6a87e16fbc781dbe1128faad2e2f5c6f51d0a4bf7ddb88e6a12da79a043a5"
+  },
+  {
+    "indice": 130,
+    "timestamp": 1789020675.394717,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a077d4c549789c7",
+      "fecha_hora": "06/09/2026 12:47",
+      "remitente": "\"Gerardo Zaldúa通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "HACK #106: Lecciones aprendidas",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.01,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e5e6a87e16fbc781dbe1128faad2e2f5c6f51d0a4bf7ddb88e6a12da79a043a5",
+    "hash_propio": "d110b9b1a23c5a114eaa9602819930ffcd5289ebb1d7402f91ad0bd257264f2d"
+  },
+  {
+    "indice": 131,
+    "timestamp": 1789020675.3947496,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a077194a2f6423f",
+      "fecha_hora": "06/09/2026 09:12",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "Nuevas vacantes de Promotor/a de telecomunicaciones listas para postularte",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 70.37,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d110b9b1a23c5a114eaa9602819930ffcd5289ebb1d7402f91ad0bd257264f2d",
+    "hash_propio": "bec25aca3d0824c45264735266a91029de041987a83f06e9652ff8a4050d0e2c"
+  },
+  {
+    "indice": 132,
+    "timestamp": 1789020675.3947794,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07709d7e8dbf4e",
+      "fecha_hora": "06/09/2026 08:56",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 El 11-S, 25 años después: así cambió el mundo",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 67.58,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "bec25aca3d0824c45264735266a91029de041987a83f06e9652ff8a4050d0e2c",
+    "hash_propio": "0aa2197cf7a416f85a454d00ddf83ab4d7aa455aecc21a5fc4eb3a4522eaf264"
+  },
+  {
+    "indice": 133,
+    "timestamp": 1789020675.3948073,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0754817307dec9",
+      "fecha_hora": "06/09/2026 00:54",
+      "remitente": "\"Jordi Alemany通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Rotación Temprana: La Factura Que Te Pasa El Talento Por Tu Incoherencia.",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.03,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0aa2197cf7a416f85a454d00ddf83ab4d7aa455aecc21a5fc4eb3a4522eaf264",
+    "hash_propio": "7b5d72f397f1b45907c0fcd068f6677b705e259b4c717db011725c7cd20618d7"
+  },
+  {
+    "indice": 134,
+    "timestamp": 1789020675.394838,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a074117b5e663ee",
+      "fecha_hora": "05/09/2026 19:14",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de INGENIERO SSOMA, SANEAMIENTO Y OPERACIONES NUEVO CHIMBOTE? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.48,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "7b5d72f397f1b45907c0fcd068f6677b705e259b4c717db011725c7cd20618d7",
+    "hash_propio": "e4a56307b1ab4402850aa1c0ec97c2e16021f12b203cbe421b256c5a8a03961f"
+  },
+  {
+    "indice": 135,
+    "timestamp": 1789020675.3948665,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a07302da97129ca",
+      "fecha_hora": "05/09/2026 14:17",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "marcelo, tienes nuevas ofertas de empleo esperándote",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 48.44,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e4a56307b1ab4402850aa1c0ec97c2e16021f12b203cbe421b256c5a8a03961f",
+    "hash_propio": "cd57cef8477927c3c2dfaba120393f300c12618527c31c38ca8c1fec736bbd85"
+  },
+  {
+    "indice": 136,
+    "timestamp": 1789020675.3948944,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a071ee7000251a5",
+      "fecha_hora": "05/09/2026 09:17",
+      "remitente": "YAPE Notificaciones <notificaciones@yape.pe>",
+      "asunto": "Por tu seguridad, te notificaremos por cada yapeo que realices",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 20.37,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "cd57cef8477927c3c2dfaba120393f300c12618527c31c38ca8c1fec736bbd85",
+    "hash_propio": "03831759275fad8abf2d94bfe0e29ac48c8329909d15924bf1466b47af9a5fb3"
+  },
+  {
+    "indice": 137,
+    "timestamp": 1789020675.3949258,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a071d7b99fc7fb0",
+      "fecha_hora": "05/09/2026 08:40",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 El Niño: la memoria de los antiguos peruanos",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 17.87,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "03831759275fad8abf2d94bfe0e29ac48c8329909d15924bf1466b47af9a5fb3",
+    "hash_propio": "ac2f61af266b9a85130b3de703ad8b274349b766f314dddefe00e0ccd6223a78"
+  },
+  {
+    "indice": 138,
+    "timestamp": 1789020675.3949523,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06f3bb79bd0666",
+      "fecha_hora": "04/09/2026 20:42",
+      "remitente": "Indeed <donotreply@jobalert.indeed.com>",
+      "asunto": "¿Cumples los requisitos para trabajar de INGENIERO SSOMA, SANEAMIENTO Y OPERACIONES NUEVO CHIMBOTE? Echa un vistazo a las ofertas de ingeniero sistemas en Áncash ",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.08,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "ac2f61af266b9a85130b3de703ad8b274349b766f314dddefe00e0ccd6223a78",
+    "hash_propio": "9bde1d2c83a57d712ef11d37ac98c851c858210490f09fdb6411aa6384b2e265"
+  },
+  {
+    "indice": 139,
+    "timestamp": 1789020675.395047,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06efdcc2a16f7b",
+      "fecha_hora": "04/09/2026 19:33",
+      "remitente": "Promociones El Comercio <promociones@comercio.com.pe>",
+      "asunto": "🚨 S/6 al mes por TODO El Comercio. Solo tienes que decir que sí🔥",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.72,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "9bde1d2c83a57d712ef11d37ac98c851c858210490f09fdb6411aa6384b2e265",
+    "hash_propio": "39acac3bffb979d79c23118e96c06e5e6bddeecff4cedf34edd28095244e78c4"
+  },
+  {
+    "indice": 140,
+    "timestamp": 1789020675.3950884,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06e652afeb7446",
+      "fecha_hora": "04/09/2026 16:48",
+      "remitente": "Asana <news@email.1.asana.com>",
+      "asunto": "Updates to Asana’s Privacy Statement and other legal terms",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.06,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "39acac3bffb979d79c23118e96c06e5e6bddeecff4cedf34edd28095244e78c4",
+    "hash_propio": "d1e1879c9f5d6d6c63030b2ea695880dae7a5a11b1506356e2eb5dc259dc1e50"
+  },
+  {
+    "indice": 141,
+    "timestamp": 1789020675.3951178,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06e40950c88533",
+      "fecha_hora": "04/09/2026 16:08",
+      "remitente": "\"ᴳ ᴵ ᴸ on Instagram\" <posts-recap@mail.instagram.com>",
+      "asunto": "vigotitoh ha compartido algo nuevo",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 5.68,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "d1e1879c9f5d6d6c63030b2ea695880dae7a5a11b1506356e2eb5dc259dc1e50",
+    "hash_propio": "0fae57c0625f4f7a4ad75f0019eac97ca7de92838766ffc92b22bf7cf8417005"
+  },
+  {
+    "indice": 142,
+    "timestamp": 1789020675.395146,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06e1c9d5c6b858",
+      "fecha_hora": "04/09/2026 15:16",
+      "remitente": "Equipo de Computrabajo <trabajos_pe@computrabajo.com>",
+      "asunto": "¡Te buscan para nuevos empleos!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 72.27,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "0fae57c0625f4f7a4ad75f0019eac97ca7de92838766ffc92b22bf7cf8417005",
+    "hash_propio": "2cbdec10ccac6f04f0370786f69b371dbeca65307804836f1512dd4082ebf433"
+  },
+  {
+    "indice": 143,
+    "timestamp": 1789020675.3951726,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06d421265e0fe3",
+      "fecha_hora": "04/09/2026 11:30",
+      "remitente": "BCP Comunica <bcpcomunica@email.bcp.com.pe>",
+      "asunto": "🚀 A un paso de tu nueva 💳. Descubre si tienes una preaprobada👇 ",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 72.34,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "2cbdec10ccac6f04f0370786f69b371dbeca65307804836f1512dd4082ebf433",
+    "hash_propio": "e28d56936144d1cd53c69b2ba95b205b7b50174bb95092ae686c874207e57dbd"
+  },
+  {
+    "indice": 144,
+    "timestamp": 1789020675.3952014,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06d18c54caa3a1",
+      "fecha_hora": "04/09/2026 10:45",
+      "remitente": "Quillbot <updates@mail.quillbot.com>",
+      "asunto": "Última oportunidad: 40 % menos",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.18,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e28d56936144d1cd53c69b2ba95b205b7b50174bb95092ae686c874207e57dbd",
+    "hash_propio": "1cd7f114cb2d3d9a6f6c467a16bfc46f47d640b2b809c6a14a457a3892aeb60f"
+  },
+  {
+    "indice": 145,
+    "timestamp": 1789020675.395234,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06d0d76de6163e",
+      "fecha_hora": "04/09/2026 10:33",
+      "remitente": "Canva <product@engage.canva.com>",
+      "asunto": "Convierte tu presentación en un Doc",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 20.0,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "1cd7f114cb2d3d9a6f6c467a16bfc46f47d640b2b809c6a14a457a3892aeb60f",
+    "hash_propio": "ba84fffc7f852445c7ed9db42d938db67536d418215fb4082fee28be087cf815"
+  },
+  {
+    "indice": 146,
+    "timestamp": 1789020675.395262,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06cac6dcda0388",
+      "fecha_hora": "04/09/2026 08:35",
+      "remitente": "\"Buenos días\" <newsletters@comercio.com.pe>",
+      "asunto": "🔴 Agresión a Uribe",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 88.02,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "ba84fffc7f852445c7ed9db42d938db67536d418215fb4082fee28be087cf815",
+    "hash_propio": "ef88fd7a1dfc896975c9f95d0ed058c63dd9b57d86d70bcb2eb759d811f68862"
+  },
+  {
+    "indice": 147,
+    "timestamp": 1789020675.3952894,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06c73a39f9b41d",
+      "fecha_hora": "04/09/2026 07:45",
+      "remitente": "\"GenAI Works通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "👑 Nvidia builds an AI empire",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.22,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "ef88fd7a1dfc896975c9f95d0ed058c63dd9b57d86d70bcb2eb759d811f68862",
+    "hash_propio": "6924159091f9547a5d89e08f524c7af6a46d182e754a65c5d79e46c335d842e9"
+  },
+  {
+    "indice": 148,
+    "timestamp": 1789020675.395318,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06c678ce3ed822",
+      "fecha_hora": "04/09/2026 07:31",
+      "remitente": "\"JOB`S通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Cierre del ciclo agosto + Anuncio del próximo Live 18 sept",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 1.85,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "6924159091f9547a5d89e08f524c7af6a46d182e754a65c5d79e46c335d842e9",
+    "hash_propio": "c0e8f34174a53d5e93d65ba02c2581f979d0eff33d3a9f0c463069890787e92a"
+  },
+  {
+    "indice": 149,
+    "timestamp": 1789020675.3953466,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06b018a64606b0",
+      "fecha_hora": "04/09/2026 01:00",
+      "remitente": "\"Marcel van Oost通过领英发送\" <newsletters-noreply@linkedin.com>",
+      "asunto": "Revolut Clears a Major U.S. Banking Hurdle",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.33,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "c0e8f34174a53d5e93d65ba02c2581f979d0eff33d3a9f0c463069890787e92a",
+    "hash_propio": "fed32118756f90a90f24c238195762333503a6a7b0e9c8b71293abfd57e36052"
+  },
+  {
+    "indice": 150,
+    "timestamp": 1789020675.395375,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06a8ae899b1097",
+      "fecha_hora": "03/09/2026 22:51",
+      "remitente": "Indeed <donotreply@match.indeed.com>",
+      "asunto": "ING. DE SANEAMIENTO AMBIENTAL, OPERACIONES Y SSOMA en R&S",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "fed32118756f90a90f24c238195762333503a6a7b0e9c8b71293abfd57e36052",
+    "hash_propio": "9ae8813592f19b8611d329b4d3bc051b5dbfac7afc33b9af916ca4f48da686c2"
+  },
+  {
+    "indice": 151,
+    "timestamp": 1789020675.3954015,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a06a58c9e3f2fae",
+      "fecha_hora": "03/09/2026 21:56",
+      "remitente": "Google <no-reply@accounts.google.com>",
+      "asunto": "Alerta de seguridad",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.39,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "9ae8813592f19b8611d329b4d3bc051b5dbfac7afc33b9af916ca4f48da686c2",
+    "hash_propio": "5da1bfda9dcae417dc2852b1dc821b73018082ae7ea54a6988dc109a1298d8d7"
+  },
+  {
+    "indice": 152,
+    "timestamp": 1790462325.6391878,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1a0a784f2028c6ca",
+      "fecha_hora": "15/09/2026 19:01",
+      "remitente": "\"Manpower Perú\" <noreply@manpower.pe>",
+      "asunto": "¡Gracias por tu interés en nuestra convocatoria!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.74,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "5da1bfda9dcae417dc2852b1dc821b73018082ae7ea54a6988dc109a1298d8d7",
+    "hash_propio": "f5422a2e0207d0203f3896eccfc8bec10be14b0610c05e177cb012e9aaa11a69"
+  },
+  {
+    "indice": 153,
+    "timestamp": 1790462325.6399143,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ecabeead209122",
+      "fecha_hora": "15/06/2026 05:06",
+      "remitente": "Google Cloud Certification Team <noreply@google.com>",
+      "asunto": "You have completed the Google Cloud skill badges, the voucher is yours! :-)",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 18.93,
+      "indicadores": {
+        "correo": 0,
+        "url": 0,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "f5422a2e0207d0203f3896eccfc8bec10be14b0610c05e177cb012e9aaa11a69",
+    "hash_propio": "fd03f176a416a81e83b83ef0af723e979dba42646e1391374b51d565a86373d3"
+  },
+  {
+    "indice": 154,
+    "timestamp": 1790462325.6399882,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e4d1399405bc70",
+      "fecha_hora": "21/05/2026 19:26",
+      "remitente": "Instagram <security@mail.instagram.com>",
+      "asunto": "New login to Instagram from Chrome on Windows",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.66,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "fd03f176a416a81e83b83ef0af723e979dba42646e1391374b51d565a86373d3",
+    "hash_propio": "2dd7306850816bb5f9987b3ab624203aa35226db7352758a7d11d23ea36789c8"
+  },
+  {
+    "indice": 155,
+    "timestamp": 1790462325.640032,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e4d1315499ae36",
+      "fecha_hora": "21/05/2026 19:25",
+      "remitente": "Instagram <security@mail.instagram.com>",
+      "asunto": "Verify your account",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.08,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "2dd7306850816bb5f9987b3ab624203aa35226db7352758a7d11d23ea36789c8",
+    "hash_propio": "88aca14da6c579b72b23b3995c083edb4925464c1c2199193cfe80b110507196"
+  },
+  {
+    "indice": 156,
+    "timestamp": 1790462325.6400669,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19e196617b2e3ab2",
+      "fecha_hora": "11/05/2026 18:36",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Constancia de Solicitud de Activación de Token Digital - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 41.46,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "88aca14da6c579b72b23b3995c083edb4925464c1c2199193cfe80b110507196",
+    "hash_propio": "ea8944e9bd734046dff3530b712d02d966ac2a78ccb5d3fe3ce8b29369962b33"
+  },
+  {
+    "indice": 157,
+    "timestamp": 1790462325.6401002,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ddc22d6901fa28",
+      "fecha_hora": "29/04/2026 21:06",
+      "remitente": "no-reply@pokemon.com",
+      "asunto": "¡Te damos la bienvenida al Portal de Entrenadores Pokémon!",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 89.66,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "ea8944e9bd734046dff3530b712d02d966ac2a78ccb5d3fe3ce8b29369962b33",
+    "hash_propio": "e4a2c95728e5d341a5c14aed87862037cb326b979f323d814fd8935bf2f2a540"
+  },
+  {
+    "indice": 158,
+    "timestamp": 1790462325.6401415,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ddc229c56b331f",
+      "fecha_hora": "29/04/2026 21:05",
+      "remitente": "no-reply@pokemon.com",
+      "asunto": "Activa tu cuenta del Portal de Entrenadores Pokémon",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 97.75,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e4a2c95728e5d341a5c14aed87862037cb326b979f323d814fd8935bf2f2a540",
+    "hash_propio": "3856ca1befb49a982d15a3ad7ebf285085f7c31692f372f6d61e75634ffd5988"
+  },
+  {
+    "indice": 159,
+    "timestamp": 1790462325.6401846,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ddc1ee723fc030",
+      "fecha_hora": "29/04/2026 21:01",
+      "remitente": "no-reply@pokemon.com",
+      "asunto": "Activa tu cuenta del Central de Entrenadores Pokémon",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 82.06,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "3856ca1befb49a982d15a3ad7ebf285085f7c31692f372f6d61e75634ffd5988",
+    "hash_propio": "1dcf416724da0bdbc3c56de112671ab84513d264856cc3492a3df03e7fe58566"
+  },
+  {
+    "indice": 160,
+    "timestamp": 1790462325.6402283,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19d70fd480ac5830",
+      "fecha_hora": "09/04/2026 01:43",
+      "remitente": "\"T&C Workday\" <workday@bbva.com>",
+      "asunto": "Información sobre tu proceso de selección en BBVA",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.58,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "1dcf416724da0bdbc3c56de112671ab84513d264856cc3492a3df03e7fe58566",
+    "hash_propio": "c3a9e7541c867477f27b40060e1ae306636a8e6614bf900575284fcf06805844"
+  },
+  {
+    "indice": 161,
+    "timestamp": 1790462325.6402736,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19b4ee756919e574",
+      "fecha_hora": "24/12/2025 00:48",
+      "remitente": "Instagram <no-reply@mail.instagram.com>",
+      "asunto": "069381 es tu código de Instagram",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.13,
+      "indicadores": {
+        "correo": 0,
+        "url": 0,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "c3a9e7541c867477f27b40060e1ae306636a8e6614bf900575284fcf06805844",
+    "hash_propio": "a78f687f6425d1ee06c3f79a1efff38ce83aa9f16818de3ae6230b7cee7a92ed"
+  },
+  {
+    "indice": 162,
+    "timestamp": 1790462325.6403959,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ad21d5a9f27ede",
+      "fecha_hora": "29/11/2025 19:09",
+      "remitente": "<DOCUMENTOSGH@azucarperu.com.pe>",
+      "asunto": "Boleta de Pago de Remuneraciones - NOVIEMBRE 2025",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 90.46,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "a78f687f6425d1ee06c3f79a1efff38ce83aa9f16818de3ae6230b7cee7a92ed",
+    "hash_propio": "4ac571e3c004cac3389f2ab1afcc87cff9bc700de14ee8fb56d82bc2e4cfbbd2"
+  },
+  {
+    "indice": 163,
+    "timestamp": 1790462325.6410198,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199b11e4127f12a8",
+      "fecha_hora": "04/10/2025 16:26",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Constancia de Activación de Token Digital - Servicio de Notificaciones BCP",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 51.38,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "4ac571e3c004cac3389f2ab1afcc87cff9bc700de14ee8fb56d82bc2e4cfbbd2",
+    "hash_propio": "7687783cd7ce3164b7bc2e37ec242a74ddb1249116b116b4d1cf5c41b75c850a"
+  },
+  {
+    "indice": 164,
+    "timestamp": 1790462325.6411471,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199b11e37b2024a9",
+      "fecha_hora": "04/10/2025 16:26",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Constancia de Solicitud de Activación de Token Digital - Servicio de Notificaciones BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 41.22,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "7687783cd7ce3164b7bc2e37ec242a74ddb1249116b116b4d1cf5c41b75c850a",
+    "hash_propio": "98bde5089e45bc9d54742a8c2d30b546cea6ea46fcffcc6383569fbe875db276"
+  },
+  {
+    "indice": 165,
+    "timestamp": 1790462325.6412416,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199736fa7b567f93",
+      "fecha_hora": "22/09/2025 16:58",
+      "remitente": "\"Prac. Seleccion - Silva, Larissa (Agroind. San Jacinto S.A.A.)\" <pracseleccapacasj02@azucarperu.com.pe>",
+      "asunto": "Plataforma Lidera Tu Desarrollo | Capacitaciones Virtuales",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.83,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "98bde5089e45bc9d54742a8c2d30b546cea6ea46fcffcc6383569fbe875db276",
+    "hash_propio": "9bb402b68b4942cf59adde9f4428c8c2788c3bfae356d1e7d56c191c06074950"
+  },
+  {
+    "indice": 166,
+    "timestamp": 1790462325.641333,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "199464629e897e01",
+      "fecha_hora": "13/09/2025 22:30",
+      "remitente": "Riot Games <noreply@mail.accounts.riotgames.com>",
+      "asunto": "Código de inicio de sesión: 600461",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 11.61,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "9bb402b68b4942cf59adde9f4428c8c2788c3bfae356d1e7d56c191c06074950",
+    "hash_propio": "39d31bc136d909b80c2408ded8be0cbc7d8fef08c9b5b996600c271948cd5dde"
+  },
+  {
+    "indice": 167,
+    "timestamp": 1790462325.6413906,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1994641a9cd7bd7f",
+      "fecha_hora": "13/09/2025 22:25",
+      "remitente": "Riot Games <noreply@umail.accounts.riotgames.com>",
+      "asunto": "Código de inicio de sesión: 529673",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 0.69,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "39d31bc136d909b80c2408ded8be0cbc7d8fef08c9b5b996600c271948cd5dde",
+    "hash_propio": "10543ff16d33a16f908c90ab32578e23fdfe005d72bc451509a826ab4e3b0803"
+  },
+  {
+    "indice": 168,
+    "timestamp": 1790462325.6414392,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1993b72a25b05e94",
+      "fecha_hora": "11/09/2025 20:03",
+      "remitente": "Microsoft account team <account-security-noreply@accountprotection.microsoft.com>",
+      "asunto": "Microsoft account security info was added",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 97.7,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "10543ff16d33a16f908c90ab32578e23fdfe005d72bc451509a826ab4e3b0803",
+    "hash_propio": "476b725da3ef2cf47242016bbcdab9379eac75daa7bbb11f9a7d2a3983445539"
+  },
+  {
+    "indice": 169,
+    "timestamp": 1790462325.6415107,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1993b7034610260d",
+      "fecha_hora": "11/09/2025 20:00",
+      "remitente": "Microsoft account team <account-security-noreply@accountprotection.microsoft.com>",
+      "asunto": "Personal Microsoft account security code",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 66.67,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "476b725da3ef2cf47242016bbcdab9379eac75daa7bbb11f9a7d2a3983445539",
+    "hash_propio": "8bd68b1382b225a42f81557f1e41ffff5eee40df1f1589ce32cecc3a2a445ab0"
+  },
+  {
+    "indice": 170,
+    "timestamp": 1790462325.6415539,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1992f9cf2604a828",
+      "fecha_hora": "09/09/2025 12:53",
+      "remitente": "BCP Notificaciones <notificaciones@notificacionesbcp.com.pe>",
+      "asunto": "Envío Automático - Constancia de Clave de Internet - BCP",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 49.86,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "8bd68b1382b225a42f81557f1e41ffff5eee40df1f1589ce32cecc3a2a445ab0",
+    "hash_propio": "10ec27291f9a031ebba52c0eaacd5b89ec61e1904b6bba11da5b69733aeee56c"
+  },
+  {
+    "indice": 171,
+    "timestamp": 1790462325.6415837,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1990ade33eddea3a",
+      "fecha_hora": "02/09/2025 09:39",
+      "remitente": "\"Prac. Seleccion - Silva, Larissa (Agroind. San Jacinto S.A.A.)\" <pracseleccapacasj02@azucarperu.com.pe>",
+      "asunto": "PROGRAMACION EMO",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 10.44,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 1,
+        "asunto": 1
+      }
+    },
+    "hash_anterior": "10ec27291f9a031ebba52c0eaacd5b89ec61e1904b6bba11da5b69733aeee56c",
+    "hash_propio": "e2ed882a65ec54bc5d3b2847972fa04eb2dafd8eae7c3db1174d219509730d0a"
+  },
+  {
+    "indice": 172,
+    "timestamp": 1790462325.6416154,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "1990c0168edd40ad",
+      "fecha_hora": "02/09/2025 14:57",
+      "remitente": "marcelo flores tarazona <marcelodaniel142001@gmail.com>",
+      "asunto": "Re: BIENVENIDA AL EQUIPO AGROINDUSTRIAS SAN JACINTO S.A.A.",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 9.45,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e2ed882a65ec54bc5d3b2847972fa04eb2dafd8eae7c3db1174d219509730d0a",
+    "hash_propio": "e23e11171da645845bb0391d0c3d5886d2f6d592c1efd1318207d337728db9ae"
+  },
+  {
+    "indice": 173,
+    "timestamp": 1790462325.6416442,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19907646519bb26e",
+      "fecha_hora": "01/09/2025 17:27",
+      "remitente": "\"AGROIND. SAN JACINTO SAA\" <no-responder@evaluarme.com>",
+      "asunto": "Te invitamos a completar las evaluaciones para PRACTICANTE DE SISTEMAS 2025 08 28.",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 90.98,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "e23e11171da645845bb0391d0c3d5886d2f6d592c1efd1318207d337728db9ae",
+    "hash_propio": "8061c0498b4b2b07e13cdf66eca8b7f7cb0a9884faa3d868ef3a6ceeb8494526"
+  },
+  {
+    "indice": 174,
+    "timestamp": 1790462325.6416714,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "198f2b95ea348405",
+      "fecha_hora": "28/08/2025 17:08",
+      "remitente": "\"Prac. Seleccion - Silva, Larissa (Agroind. San Jacinto S.A.A.)\" <pracseleccapacasj02@azucarperu.com.pe>",
+      "asunto": "ENTREVISTA - PRACTICANTE DE SISTEMAS",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 11.23,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 1
+      }
+    },
+    "hash_anterior": "8061c0498b4b2b07e13cdf66eca8b7f7cb0a9884faa3d868ef3a6ceeb8494526",
+    "hash_propio": "878d3f70b77b5147080f65714166055ac02aead49b56398432504204102deee2"
+  },
+  {
+    "indice": 175,
+    "timestamp": 1790462325.6417015,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "198f1f7e6bed15d7",
+      "fecha_hora": "28/08/2025 13:36",
+      "remitente": "notificacertijoven@trabajo.gob.pe",
+      "asunto": "MTPE-Validación de correo electrónico",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 99.92,
+      "indicadores": {
+        "correo": 0,
+        "url": 0,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "878d3f70b77b5147080f65714166055ac02aead49b56398432504204102deee2",
+    "hash_propio": "8e8f914c0ab2a5574ec3bc864adbd87fbca439d8b8a2b2fae3f7de67d4ac31ea"
+  },
+  {
+    "indice": 176,
+    "timestamp": 1790462325.641728,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "198f3a54de5e2cea",
+      "fecha_hora": "28/08/2025 21:25",
+      "remitente": "marcelo flores tarazona <marcelodaniel142001@gmail.com>",
+      "asunto": "Re: SOLICITUD DE EMPLEO",
+      "clasificacion": "LEGÍTIMO",
+      "probabilidad_phishing": 3.29,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 1,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "8e8f914c0ab2a5574ec3bc864adbd87fbca439d8b8a2b2fae3f7de67d4ac31ea",
+    "hash_propio": "964e25527eb4b7cacc9181e590c0eef9f2fb09bd4baf4b336971f7025a3e0d60"
+  },
+  {
+    "indice": 177,
+    "timestamp": 1790462740.9151604,
+    "datos": {
+      "algoritmo": "SICNN",
+      "origen": "complemento_gmail",
+      "id_correo": "19ad21d5a9f27ede",
+      "fecha_hora": "29/11/2025 19:09",
+      "remitente": "<DOCUMENTOSGH@azucarperu.com.pe>",
+      "asunto": "Boleta de Pago de Remuneraciones - NOVIEMBRE 2025",
+      "clasificacion": "PHISHING",
+      "probabilidad_phishing": 90.46,
+      "indicadores": {
+        "correo": 0,
+        "url": 1,
+        "archivo": 0,
+        "imagen": 0,
+        "asunto": 0
+      }
+    },
+    "hash_anterior": "964e25527eb4b7cacc9181e590c0eef9f2fb09bd4baf4b336971f7025a3e0d60",
+    "hash_propio": "2352ee14efc19c21b49c57b3701813028475730616a34d003e7d1f0052212f84"
+  }
+]
